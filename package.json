@@ -1,0 +1,21 @@
+{
+  "name": "connect4",
+  "version": "0.1.0",
+  "description": "Connect4 is a grid-based game, where players take it in turns to add tokens. The winner is whoever manages to line up 4 pieces, in any direction, first. Diagonals are allowed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "node"
+  ],
+  "author": "bmordan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.0.2"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
